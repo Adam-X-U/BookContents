@@ -1,4 +1,6 @@
 # Chapter 2
+This is Adam's welcome message!
+
 The links you'll need are here:
 
 + The Contents for the book: [Book Contents](https://github.com/CSharpWithUnity/BookContents)
